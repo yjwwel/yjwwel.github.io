@@ -8,9 +8,9 @@ LG *Arrowsmith*
 
 ![ newjeans ](https://i.pinimg.com/564x/ce/34/bc/ce34bccc20aa184794b8dddc286969b6.jpg)
 
-## my playlist in shuffle *!*
+## my playlist in circle of pink *!*
 a playlist where you can relate to, cry yourself to and a playlist where you can find yourself to :))
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4g2c7NoTWAOSYDy44l9nub?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1fzAuUVbzlhZ1lJAx9PtY6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0a4MMyCrzT0En247IhqZbD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VE4kBnHJUgtMf0dy6DRmW?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0RDqNCRBGrSegk16Avfzuq?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
