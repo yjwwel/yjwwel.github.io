@@ -6,7 +6,7 @@ LG *Arrowsmith*
 
 >maybe love isn't something that comes full circle. it just ebbs and flows, in and out, just like the people in our lives.
 
-![ newjeans ](https://i.pinimg.com/564x/ce/34/bc/ce34bccc20aa184794b8dddc286969b6.jpg)
+![ newjeans ](https://pbs.twimg.com/media/Fmb-foPaEAE9quQ?format=jpg&name=large)
 
 ## my playlist in circle of mixed emotions *!*
 a playlist where you can relate to, cry yourself to and a playlist where you can find yourself to :))
