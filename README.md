@@ -6,7 +6,7 @@ LG *Arrowsmith*
 
 >maybe love isn't something that comes full circle. it just ebbs and flows, in and out, just like the people in our lives.
 
-![ newjeans ](https://pbs.twimg.com/media/Fmb-foPaEAE9quQ?format=jpg&name=large)
+![ newjeans ](https://pbs.twimg.com/media/FmhFhvAaAAE4lXW?format=jpg&name=large)
 
 ## different types of playlists that i have *!*
 
