@@ -11,7 +11,7 @@ LG *Arrowsmith*
 ## different types of playlists that i have *!*
 
 ### 1. my taylor swift playlist
-this is a playlist where a rollercoaster emotions comes in
+a playlist of *taylor swift songs to cry to*
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7uzoxv6iBVdIuG2b9FWQJY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
