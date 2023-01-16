@@ -23,3 +23,13 @@ this is a playlist which contains songs from the korean girl groups i stan !
 ### 3. ako nalang kasi つ﹏⊂
 a playlist kung saan mapapasabi ka nalang ng "ako nalang kasi" 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/17cwpaHocQ9UaYZG5g7fa3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+## my current favorite songs 
+1. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jQI2r1RdgtuT8S3iG8zFC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+2. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VE4kBnHJUgtMf0dy6DRmW?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+3. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/41P6Tnd8KIHqON0QIydx6a?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+4. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/18828cEHUmNlNf6FdcAnLI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+5. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/32XaqPVTVkkuOiOPQZ3SpA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+6. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1fDFHXcykq4iw8Gg7s5hG9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+7. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6MpCaSIOfqBqbMED4kXgNY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
