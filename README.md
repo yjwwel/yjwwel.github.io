@@ -24,7 +24,7 @@ this is a playlist which contains songs from the korean girl groups i stan !
 a playlist kung saan mapapasabi ka nalang ng "ako nalang kasi" 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/17cwpaHocQ9UaYZG5g7fa3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
+![ adjsgdj ](![image](https://user-images.githubusercontent.com/122426706/212587560-f85496fd-4ba0-4223-853d-5e544a12f2bd.png)
 ## my current favorite songs 
 1. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jQI2r1RdgtuT8S3iG8zFC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 2. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VE4kBnHJUgtMf0dy6DRmW?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
